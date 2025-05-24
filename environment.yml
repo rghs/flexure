@@ -1,7 +1,0 @@
-name: flexure
-dependencies:
-  - python=3.12
-  - numpy
-  - scipy
-  - matplotlib
-  - pandas
